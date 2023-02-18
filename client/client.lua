@@ -1,3 +1,4 @@
+local QBCore = exports['qb-core']:GetCoreObject()
 local Speed = 35.0
 local Drive = 786603
 local useDebug = false
