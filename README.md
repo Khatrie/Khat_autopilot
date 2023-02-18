@@ -1,6 +1,6 @@
-# Khat-autopilot
+# Khat-autopilot Meant for QB-Core
 
-Forked from and improved upon the original code of wasab-autopilot by wasabirobby
+Forked from and improved upon the original code of wasab-autopilot by wasabirobby 
 
 Steps to install:
 -----------------
