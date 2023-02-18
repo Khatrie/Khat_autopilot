@@ -10,17 +10,13 @@ lua54 'yes'
 
 description 'Auto Pilot'
 
-author 'wasabirobby'
+author 'Khatrie - Original from wasabirobbery'
 
-version '1.12'
+version '1.0'
 
 
 client_scripts {
     'client/*.lua'
-}
-
-server_scripts {
-    'server/*.lua'
 }
 
 shared_scripts {
