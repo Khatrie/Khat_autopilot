@@ -12,7 +12,6 @@ RegisterCommand(Config.StartCommand, function(source, args)
     local ev = 0
     local player = PlayerPedId()
     local vehicle = GetVehiclePedIsIn(player, false)
-    print(QBCore.Debug(args))
     for i in pairs(Config.APVehicles) do
         local vehmodel = IsVehicleModel(vehicle, Config.APVehicles[i])
         if vehmodel then
